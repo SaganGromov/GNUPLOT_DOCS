@@ -1,6 +1,4 @@
-Sure, here is the content for a markdown file with detailed instructions for using Gnuplot.
 
-````markdown
 # Comprehensive Guide to Gnuplot (.gp scripts)
 
 Gnuplot is a powerful command-line-driven graphing utility. This guide provides detailed instructions on how to create `.gp` scripts to generate various plots, fit data, and export your work.
